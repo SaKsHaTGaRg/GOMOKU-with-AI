@@ -137,7 +137,8 @@ This improves strategic play because strong Gomoku positions typically develop n
 
 How to Run the Project
 1. Clone the repository
-   git clone https://github.com/yourusername/gomoku-ai.git
+   git clone https://github.com/SaKsHaTGaRg/GOMOKU-with-AI.git
+
 2. Compile the program
    javac *.java
 3. Run the program
